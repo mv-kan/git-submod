@@ -1,0 +1,3 @@
+[submodule "submodules-folder/git-submod-config"]
+	path = submodules-folder/git-submod-config
+	url = git@github.com:mv-kan/git-submod-config.git
